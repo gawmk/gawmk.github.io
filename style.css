@@ -1,6 +1,7 @@
 @font-face {
   font-family: "Font";
   src: url("iosevka.ttf");
+  font-size: 20pt;
 }
 
 html {
